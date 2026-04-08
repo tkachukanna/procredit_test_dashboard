@@ -25,3 +25,10 @@
 - Category - фільтрація по категорії продуктів
 - Country - фільтрація по країні
 
+### Приклади роботи фільтрів
+
+Продажі для 2024 для США:
+![Dashboard Screenshot](https://github.com/tkachukanna/procredit_test_dashboard/blob/main/dashboard_for_2024_usa.png?raw=true)
+
+Продажі за весь час для категорії Clothing:
+![Dashboard Screenshot](https://github.com/tkachukanna/procredit_test_dashboard/blob/main/dashboard_for_clothing_category.png?raw=true)
